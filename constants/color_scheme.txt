@@ -1,0 +1,52 @@
+Primary Color
+#01C16B (Vibrant Green): Represents growth, sustainability, and environmental responsibility.
+Supporting Colors
+Secondary Color
+#FFCC00 (Golden Yellow): Highlights, alerts, or call-to-action elements like buttons. Conveys positivity and attention.
+Accent Color
+#007BFF (Sky Blue): Used for subtle accents, links, or non-critical buttons. Represents trust and cleanliness.
+Neutral Colors
+Light Gray: #F5F5F5 (Backgrounds or subtle borders).
+Medium Gray: #D1D1D1 (Secondary text or icons).
+Dark Gray: #11181C (Primary text or titles).
+Alert Colors
+Success
+#4CAF50 (Muted Green): Indicates success or completed actions.
+Warning
+#FFA500 (Bright Orange): For warnings or pending actions.
+Danger
+#FF5A5F (Red): Used for errors or critical alerts.
+
+
+Full Color Palette
+
+Color	                 Hex Code	     Usage
+
+PrimaryGreen	        #01C16B	        Brand identity, buttons
+SecondaryYellow	    #FFCC00	        Highlights, call-to-actions
+AccentBlue	            #007BFF	        Links, subtle accents
+LightGray	            #F5F5F5	        Backgrounds, borders
+MediumGray	            #D1D1D1	        Secondary text, placeholders
+DarkGray	            #11181C	        Titles, primary text
+SuccessGreen	        #4CAF50	        Success messages or badges
+WarningOrange	        #FFA500	        Warnings, minor alerts
+DangerRed	            #FF5A5F	        Errors, critical alerts
+
+
+
+
+Example Usage
+
+Background and Text
+Use #F5F5F5 as the background color.
+Use #11181C for primary text and #D1D1D1 for secondary text.
+Buttons
+Primary button: #01C16B with white text.
+Secondary button: #FFCC00 with dark gray text.
+Icons
+Active icons: #01C16B.
+Inactive icons: #D1D1D1.
+Alerts
+Success: Background #4CAF50 with white text.
+Warning: Background #FFA500 with dark gray text.
+Danger: Background #FF5A5F with white text.
